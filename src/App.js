@@ -3,6 +3,7 @@ import './App.css';
 import HelloWorld  from './components/HelloWorld';
 import SayMyName from './components/SayMyName';
 import Pessoa from './components/Pessoa';
+import Frase from './components/Frase';
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       profissao="Software Engineer" 
       foto="https://placehold.co/90x90"/>
       <HelloWorld />
+      <Frase />
     </div>
   );
 }
