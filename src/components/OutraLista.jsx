@@ -8,7 +8,7 @@ function OutraLista({itens}){
             )))
         : (
             <p>Não há itens na lista</p>
-        )}
+        )}git 
         </>
     )
 }
