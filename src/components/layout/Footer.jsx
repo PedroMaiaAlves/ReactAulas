@@ -9,7 +9,7 @@ function Footer(){
             <li><FaInstagram/></li>
             <li><FaWhatsapp/></li>
         </ul>
-            <p>Nosso rodapé</p>
+            <p>Nosso rodape</p>
     </footer>
 }
 
